@@ -4,6 +4,9 @@
 #include <math.h>
 using namespace std;
 
+int const a = 32;
+int const b = 9/5;
+
 float conversione (int gradi_c);
 int main () 
 {
@@ -14,5 +17,5 @@ for (int i=0; i<=20; i++)
 }
 float conversione (int gradi_c)
 {
-	return 32+(9/5)*gradi_c;
+	return a+b*gradi_c;
 }
