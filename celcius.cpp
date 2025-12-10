@@ -1,3 +1,9 @@
+/*
+--ANDREA BERARDO--
+10/12/2025
+v 1.0.0
+*/
+
 #include<iostream>
 #include<stdlib.h>
 #include <stdio.h>
